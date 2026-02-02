@@ -1,0 +1,40 @@
+.image{
+    border:5px solid black; display: block; margin:0 auto;
+    box-shadow: 10px 5px 5px black;}
+
+    .text{
+        font-family: 'Times New Roman', Courier, monospace;
+        text-align: center;
+        Color: Gold;
+        -webkit-text-stroke: 3px black;
+        Font-size: 90px;
+        font-weight: 800;}
+    body {
+        margin: 0px;
+    }
+    main {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .navbar ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: gold;
+    }
+    .navbar a {
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px;
+        text-decoration: none;
+    
+    }
+    .navbar a:hover {
+        background-color: rgb(245, 241, 241);
+        color:black;
+    }
+    .navbar li {
+        float: right;
+    }
